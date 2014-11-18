@@ -7,7 +7,7 @@ published: true
 
 Part of what makes the open community unique is a unique way of working. [Mozilla] (http://mozilla.org) is committed to open not only at the level of technology, but also in terms of how we work  -- for decision-making, discussion, working on specific tasks and bugs, communications and community. It's a defining part of our culture and history. 
 
-That culture and way of working faces new challenges and opportunities. Our community has grown enormously. The scope and complexity of Mozilla products has increased. Specific business requirements can clash with the goal of transparency and community participation. '''As the open community grows exponentially, we strain our traditional culture and systems.'''
+That culture and way of working faces new challenges and opportunities. Our community has grown enormously. The scope and complexity of Mozilla products has increased. Specific business requirements can clash with the goal of transparency and community participation. ***As the open community grows exponentially, we strain our traditional culture and systems.***
 
 Working open can be messy and difficult — but it’s still essential to our continued success.
 
