@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 title: Course in a Box
+=======
+title: Hey Mozillians, Be Open!
+>>>>>>> FETCH_HEAD
 description: Build Your Very Own Open Course
 modules: [start, community, learning, content, feedback, references]
 signups:
