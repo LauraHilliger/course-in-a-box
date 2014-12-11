@@ -1,7 +1,10 @@
-title: Course in a box
+title: Course in a Box
 description: Build Your Very Own Open Course
 modules: [start, community, learning, content, feedback, references]
 signups:
+ - name: Dave Cormier
+   image: https://pbs.twimg.com/profile_images/465974023558418434/NYQWX2pm_400x400.jpeg
+   twitter: davecormier
  - name: Dirk Uys
    image: http://thebacklog.net/img/profile.jpeg
    twitter: riskycud
@@ -55,7 +58,7 @@ signups:
    twitter: angela_brown
    github_username: dreamingwombat
  - name: Nicole McGee
-   image: https://pbs.twimg.com/profile_images/525689865321447424/8QDwDPKh.jpeg
+   image: https://pbs.twimg.com/profile_images/530473525945978880/LYMJ07-U_400x400.jpeg
    twitter: nicolejam
  - name: Robert Morris
    image: http://s4.postimg.org/s0w975fp9/coalminer2.png
@@ -81,3 +84,23 @@ signups:
    image: https://pbs.twimg.com/profile_images/356114067/elliotwater.jpg
    twitter: elliotharmon
    github_username: elliotharmon
+ - name: Matt McLean
+   image: http://www.yciw.net/knights/wp-content/uploads/sites/69/2014/11/IMG_1448.jpg
+   twitter: yciw
+   github_username: matt5834
+ - name: John Cummings 
+   image: http://girltomom.com/wp-content/uploads/2012/09/raccoon-holding-cat.jpg
+   twitter: mrjohnc
+   github_username: mrjohnc
+ - name: Terry Elliott
+   image: https://farm8.staticflickr.com/7301/13982521190_ce0d7c5734_s.jpg
+   twitter: telliowkuwp
+   githuk_username: tellio
+ - name: mura nava
+   image: https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_400x400.gif
+   twitter: muranava
+   github_username: muranava
+ - name: Mindy McAdams
+   image: http://mindymcadams.com/images/self/athens.jpg
+   twitter: macloo
+   github_username: macloo

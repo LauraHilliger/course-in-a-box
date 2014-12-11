@@ -1,35 +1,33 @@
 ---
 title: Projects
+published: true
 ---
+
 # Projects
 
-## Join another P2PU course and observe 
-You can choose any P2PU course, but if you have no idea where to start, here's a short list:
+## Backwards Design: What Will People *Learn* in Your Course?
+Everyone has their favorite readings, ideas and activities that they might want to pull into their courses. But designing a course is about selecting the right elements that will bring about transformation. 
 
-- [Why Open](https://p2pu.org/en/courses/2314/why-open/) 
-- [Writing for Change](http://writing4change.p2pu.org)
-- [Play With Your Music](http://playwithyourmusic.org)
+*Start with what you want folks to know.* Work backwards from there. 
 
-Here are some things to think about while looking at the course:
+![3stages.gif]({{site.baseurl}}/img/3stages.gif)
 
-- How are the courses structured
-- What are the exercises like? What is the product, how do people share it?
-
-Complete one of the exercise from the course.
+*credit: http://techknowtools.files.wordpress.com/2012/04/3stages.gif*
 
 
-## Plan your Learning outcomes
+1. What ideas or skills do you want students to master in your course? Make a list of 3-5. 
+2. Think about what kinds of projects students might complete to show mastery of those ideas or skills. Jot down 1-2 ideas.
+3. You now have the learning outcomes for your course. Post your learning outcomes and project ideas to Discourse under [Course in a Box: Backwards Learning Design](http://community.p2pu.org/t/course-in-a-box-backwards-learning-design/1224).
 
-Write down what you want people to learn when taking your course - your learning outcomes. Try to think of possible projects learners can do that will require them to learn those things. Some things to keep in mind - will students need to do all the projects? Will all the projects require mastery of all the learning outcomes? Does completing a project imply mastering all the learning outcomes?
+Now you are ready to create (and play with) your modules!
 
+## Let's Make Some Modules!
 
-## Add modules to your course
+Now it's time to start building your course! 
 
-Now it's time to start building your course! ### Add modules to your course
-
-Now create a module in your course for every learning outcome above. In your GitHub repository, create a folder for every module inside the modules folder. The name of the folder will be reflected in the URLs of your course. If you look at the URL for this page, you will notice the first part of the URL is 'modules/learning' and that is also the name of the [folder in the GitHub repository](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/learning/).
-
-Inside the folder you just created you also need to create another folder called `_posts`. This is the folder that will hold the actual content for your course. Every module can have multiple sections. One of these sections should be `projects`. Create a new file called `2000-01-01-projects.md` inside the `_posts` folder for the module you just created. The date part is used to determine the order of the sections in the module. For instance, you can see all the sections for the learning module [here](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/learning/_posts)
+1. In your GitHub repository, create a folder for every module inside the `modules` folder. The name of the folder will be reflected in the URLs of your course. If you look at the URL for this page, you will notice the first part of the URL is 'modules/learning' and that is also the name of the [folder in the GitHub repository](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/learning/).
+1. Inside the folder you just created, create another folder called `_posts`. This is the folder that will hold the actual content for your course. Every module can have multiple sections. One of these sections should be `projects`.
+1. Create a new file called `2000-01-01-projects.md` inside the `_posts` folder for the module you just created. The date part determines the order of the sections in the module. For instance, you can see all the sections for the learning module [here](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/learning/_posts).
 
 If you don't want to create all the folders yourself, rename or copy one of the folders that are already there (start, community, learning, content) and update the sections appropriately.
 
@@ -40,3 +38,24 @@ Update the list of modules to reflect the modules for your course:
 {% highlight yaml %}
 modules: [start, community, learning, content, feedback, references]
 {% endhighlight %}
+
+The video below shows all the steps for adding a module called 'variables' to a course.
+
+<video src="{{site.baseurl}}/img/add-module.webm" width="640" height="360" controls></video>
+
+## From Learning Goals to Activities
+As we mentioned earlier, we recall information best when we:
+
+- design for all senses
+- build a real-life project that is applicable to our lives
+- present that project to others for feedback
+- share our ideas with the wider world
+
+For each learning goal / module, design an assignment prompt that's open-ended and empowers learners to personalize the project. As mentioned earlier, for "social stratification" you might:
+
+- display census data on a map
+- interview 5 people in a certain radius and share the interviews on a website
+- create a video documentary about grocery stores in an area
+- create a time lapse photography about the gentrification of a neighborhood
+
+For each learning module, describe your activity, and post it to [Course in a Box: Activity Design](http://community.p2pu.org/t/course-in-a-box-activity-design/1225) on Discourse. 
