@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Are you looking for https://github.com/p2pu/course-in-a-box/?
-=======
 # Everything you need to create an online course in a box
 
 
@@ -11,4 +8,3 @@ Head on over to [howto.p2pu.org](http://howto.p2pu.org). Everything you need to 
 ---
 
 This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template).
->>>>>>> FETCH_HEAD

@@ -1,3 +1,50 @@
 .content img {
     max-width: 100%;
 }
+.jumbotron{
+     background-image: url('../img/mozorg-gradient.png');
+}
+.jumbotron header h1 {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 3.0em;
+}
+.navbar-default {
+    border-bottom-color: #D7D3C8;
+}
+body {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857;
+    color: #4D4E53;
+}
+.p2pu-logo img {
+    width: 175px;
+}
+.btn-danger {
+    color: #D7D3C8;
+    background-color: #4D4E53;
+    border-color: #D7D3C8;
+}
+
+.btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
+ color: #4D4E53;
+ background-color: #F6F4EC; background-image: -webkit-gradient(linear, left top, left bottom, from(#a5b8da), to(#7089b3));
+ background-image: -webkit-linear-gradient(top, #F6F4EC, #D7D3C8);
+ background-image: -moz-linear-gradient(top, #F6F4EC, #D7D3C8);
+ background-image: -ms-linear-gradient(top, #F6F4EC, #D7D3C8);
+ background-image: -o-linear-gradient(top, #F6F4EC, #D7D3C8);
+ background-image: linear-gradient(to bottom, #F6F4EC, #D7D3C8);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#F6F4EC, endColorstr=#D7D3C8);
+}
+
+img[alt="LearningIcon"] { 
+  max-width:  220px; 
+  display: block;
+}
+img[alt="CodeReview"] { 
+  max-width:  260px; 
+  display: block;
+}
+
+
+
+
