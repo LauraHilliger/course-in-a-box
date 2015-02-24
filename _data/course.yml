@@ -1,7 +1,7 @@
-title: Community Education 
-description: Community Education
-modules: [about, mentors,market research, developer engagement]
+title: Mozilla Learning: Curriculum 
+description: Here you''ll find our favorite curriculum modules, tested and packaged especially for sustaining local learning using Mozilla''s pedagogy. Learn more about using these activities in Webmaker Clubs.
+modules: [about, web literacy, teach like Mozilla]
 signups:
- - name: Mozilla Mentor Badge
-   image: https://reps.mozilla.org/static/base/img/remo/remo_avatar.png
-   twitter: sunnydeveloper
+ - name: Webmaker Mentor Badge
+   image: https://stuff.webmaker.org/badges/webmaker-mentor.png
+   twitter: epilepticrabbit
