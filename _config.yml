@@ -1,5 +1,9 @@
 # basic configuration
+<<<<<<< HEAD
 baseurl: /course-in-a-box
+=======
+baseurl: /reps-edu
+>>>>>>> cfb14bd890b8fc1fc204eb6324e6bec4ad140207
 markdown: redcarpet
 permalink: /:categories/:title/
 
@@ -31,4 +35,8 @@ prose:
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#C13832"
 jumbotron_background_image: "header.svg"
+<<<<<<< HEAD
 jumbotron_image: "wm-logo.png"
+=======
+jumbotron_image: "remo_avatar.png"
+>>>>>>> cfb14bd890b8fc1fc204eb6324e6bec4ad140207
