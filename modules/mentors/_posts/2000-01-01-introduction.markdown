@@ -1,5 +1,5 @@
 ---
-title: Rep Mentor 
+title: Teach Like Mozilla 
 ---
 
-{% include community_cirriculum/reps/mentor_training/en/introduction.md %}
+{% include community_curriculum/teach_like_mozilla/mentor_training/en/introduction.md %}
