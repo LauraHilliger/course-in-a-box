@@ -3,7 +3,7 @@
 baseurl: /course-in-a-box
 markdown: redcarpet
 permalink: /:categories/:title/
-
+encoding: UTF-8
 
 ga_tracking_code: UA-5757664-19
 p2pu_ga_tracking_code: UA-55722824-1
