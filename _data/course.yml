@@ -1,6 +1,6 @@
 title: Teach Like Mozilla 
 description: Teach like Mozilla
-modules: [Exploring Pedagogies, Participatory Learning, Working Openly, Local Action, Global Communities]
+modules: [exploring_pedagogies, participatory_learning, working_openly, local_action, global_communities]
 submodules: [github]
 signups:
  - name: Event Host
