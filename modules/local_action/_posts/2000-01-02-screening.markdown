@@ -3,4 +3,4 @@ title: Screening
 ---
 
 
-{% include community_curriculum/local_action/en/swag.md %}
+{% include community_curriculum/local_action/en/screening.md %}
