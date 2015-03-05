@@ -5,7 +5,7 @@ published: true
 
 ## Learning, Teaching, Growing
 
-Mozilla Community Education aims to empower Mozillians in their contributions, and personal goals through Education and Training.
+Mozilla sadasfd	 Education aims to empower Mozillians in their contributions, and personal goals through Education and Training.
 
 
 
