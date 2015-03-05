@@ -1,4 +1,5 @@
 # basic configuration
+
 baseurl: /course-in-a-box
 markdown: redcarpet
 permalink: /:categories/:title/
@@ -31,4 +32,4 @@ prose:
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#C13832"
 jumbotron_background_image: "header.svg"
-jumbotron_image: "remo_avatar.png"
+jumbotron_image: "mozilla-logo.png"
