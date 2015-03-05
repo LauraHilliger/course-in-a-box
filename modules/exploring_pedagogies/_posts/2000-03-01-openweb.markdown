@@ -1,0 +1,6 @@
+---
+title: Open Web 
+---
+
+{% include community_curriculum/exploring_pedagogies/en/openweb.md %}
+
