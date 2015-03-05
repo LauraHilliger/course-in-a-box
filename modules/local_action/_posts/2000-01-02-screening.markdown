@@ -3,4 +3,4 @@ title: Screening
 ---
 
 
-{% include community_curriculum/reps/mentor_training/en/screening.md %}
+{% include community_curriculum/local_action/en/screening.md %}
