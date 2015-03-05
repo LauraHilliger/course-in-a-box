@@ -1,11 +1,11 @@
-title: Community Education 
-description: Community Education
-modules: [about, reps, market_pulse, DevRel, technical, calendar]
+title: Teach Like Mozilla 
+description: Teach like Mozilla
+modules: [About, Making & Connected Learning, Participation & Collaboration, Working Openly, Local Action, Global Communities]
 submodules: [github]
 signups:
- - name: Mozilla Rep Badge
-   image: http://tiptoes.ca/wp-content/uploads/2015/02/Preview-01.png
-   twitter: sunnydeveloper
- - name: Mozilla Mentor Badge
-   image: http://tiptoes.ca/wp-content/uploads/2015/02/Digital-copy.png
-   twitter: sunnydeveloper
+ - name: Event Host
+   image: https://badgekit-mozilla.mofoprod.net/images/badge/259
+   url: https://webmaker.org/badges/event-host
+ - name: Web Literacy Skill Sharer
+   image: https://badgekit-mozilla.mofoprod.net/images/badge/961
+   url: https://webmaker.org/badges/skill-sharer
