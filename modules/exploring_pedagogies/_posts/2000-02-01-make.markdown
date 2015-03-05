@@ -1,0 +1,6 @@
+---
+title: Making is Learning 
+---
+
+{% include community_curriculum/exploring_pedagogies/en/make.md %}
+
