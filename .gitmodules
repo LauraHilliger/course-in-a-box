@@ -1,3 +1,6 @@
 [submodule "_includes/community_curriculum"]
 	path = _includes/community_curriculum
 	url = https://github.com/emmairwin/community_curriculum
+[submodule "community_curriculum"]
+	path = community_curriculum
+	url = https://github.com/LauraHilliger/community_curriculum.git
