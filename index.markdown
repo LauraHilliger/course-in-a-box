@@ -5,7 +5,7 @@ published: true
 
 ## Learning, Teaching, Growing
 
-Mozilla sadasfd	 Education aims to empower Mozillians in their contributions, and personal goals through Education and Training.
+Mozilla Learning aims to empower Mozillians in their contributions, and personal goals through Education and Training.
 
 
 
@@ -24,5 +24,5 @@ Join our Community Education Call!  <a target="_blank" href="https://www.google.
 
 <hr>
 
-<i class="fa fa-github fa-2x" ></i> [This platform](https://github.com/emmairwin/reps-edu/) and [all curriculumm](https://github.com/emmairwin/community_curriculum) can be found on Github, please help us improve and localize.
+<i class="fa fa-github fa-2x" ></i> [This platform](https://github.com/emmairwin/reps-edu/) and [all curriculum](https://github.com/emmairwin/community_curriculum) can be found on Github, please help us improve and localize.
 		
