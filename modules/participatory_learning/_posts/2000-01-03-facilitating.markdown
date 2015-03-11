@@ -1,5 +1,5 @@
 ---
-title: Facilitating Participatory Learning
+title: Facilitating
 ---
 
 {% include community_curriculum/participatory_learning/en/facilitating.md %}
