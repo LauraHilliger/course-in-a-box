@@ -3,4 +3,4 @@ title: Working Locally
 ---
 
 
-{% include community_curriculum/speading_this_work/en/local.md %}
+{% include community_curriculum/spreading_this_work/en/local.md %}

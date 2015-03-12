@@ -2,4 +2,4 @@
 title: Cultures of Participation
 ---
 
-{% include community_curriculum/speading_this_work/en/culture.md %}
+{% include community_curriculum/spreading_this_work/en/culture.md %}
