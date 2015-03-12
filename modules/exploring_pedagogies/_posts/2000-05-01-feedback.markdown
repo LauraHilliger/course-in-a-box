@@ -1,6 +1,0 @@
----
-title: Generous Feedback
----
-
-{% include community_curriculum/exploring_pedagogies/en/feedback.md %}
-

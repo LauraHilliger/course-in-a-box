@@ -1,0 +1,6 @@
+---
+title: Working Locally
+---
+
+
+{% include community_curriculum/speading_this_work/en/local.md %}

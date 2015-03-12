@@ -1,6 +1,0 @@
----
-title: What's hard about Open?
----
-
-{% include community_curriculum/working_openly/en/trials.md %}
-

@@ -1,5 +1,0 @@
----
-title: Tactile Learning Methods
----
-
-{% include community_curriculum/participatory_learning/en/tactile.md %}

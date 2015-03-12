@@ -1,5 +1,0 @@
----
-title: Budgets 
----
-
-{% include community_curriculum/local_action/en/budgets.md %}

@@ -1,5 +1,0 @@
----
-title: Wrap-up & Mentor Badge 
----
-
-{% include community_curriculum/local_action/en/wrap-up.md %}
