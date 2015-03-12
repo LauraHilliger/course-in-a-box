@@ -1,6 +1,6 @@
 title: Teach Like 
 description: Teach like
-modules: [exploring_pedagogies, participatory_learning, working_openly, local_action, global_communities]
+modules: [about, exploring_pedagogies, participatory_learning, working_openly, local_action, global_communities]
 submodules: [github]
 signups:
  - name: Event Host
