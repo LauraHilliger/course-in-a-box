@@ -66,8 +66,6 @@ footer {
     color: #FFF;
 }
 
-.active{
-	background-color: #5F9EA0;
+.navbar-nav > li > a{
+	font-size:1em;
 }
-
-
