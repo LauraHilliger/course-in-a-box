@@ -60,6 +60,14 @@ img[alt="WebApp"] {
   display: block;
 }
 
+footer {
+    padding: 2.5rem 0;
+    background: none repeat scroll 0 0 #013E5F;
+    color: #FFF;
+}
 
+.active{
+	background-color: #5F9EA0;
+}
 
 
