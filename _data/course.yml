@@ -1,6 +1,6 @@
 title: Teach Like 
 description: Teach like
-modules: [about, teaching_and_learning_in_open_spaces, designing_engagement, sustaining_movement]
+modules: [about, teaching_learning, designing_engagement, sustaining_movement]
 submodules: [github]
 signups:
  - name: Event Host
