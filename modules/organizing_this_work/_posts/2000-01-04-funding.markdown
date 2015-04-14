@@ -1,5 +1,0 @@
----
-title: Finding Funding
----
-
-{% include community_curriculum/organizing_this_work/en/funding.md %}

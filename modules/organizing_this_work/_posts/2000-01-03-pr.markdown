@@ -1,5 +1,0 @@
----
-title: Public Relations
----
-
-{% include community_curriculum/organizing_this_work/en/pr.md %}

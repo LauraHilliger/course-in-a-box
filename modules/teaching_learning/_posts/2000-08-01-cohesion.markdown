@@ -1,0 +1,6 @@
+---
+title:  Finding Cohesion and Encouraging Collaboration
+---
+
+
+{% include community_curriculum/teaching_learning/en/cohesion.md %}

@@ -1,0 +1,6 @@
+---
+title: Working Locally
+---
+
+
+{% include community_curriculum/sustaining_movement/en/local.md %}

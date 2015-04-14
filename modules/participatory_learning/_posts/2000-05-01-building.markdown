@@ -1,5 +1,0 @@
----
-title: Building on the Web
----
-
-{% include community_curriculum/participatory_learning/en/building.md %}

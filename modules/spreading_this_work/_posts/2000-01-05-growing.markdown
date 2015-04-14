@@ -1,4 +1,0 @@
----
-title: Growing and Adapting
----
-{% include community_curriculum/spreading_this_work/en/growing.md %}

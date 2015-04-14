@@ -1,0 +1,5 @@
+---
+title: Open Tools
+---
+
+{% include community_curriculum/teaching_learning/en/tools.md %}
