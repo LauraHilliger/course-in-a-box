@@ -69,6 +69,11 @@ footer {
 .navbar-nav > li > a{
 	font-size:1em;
 }
+
+.btn{
+	margin-bottom:5px;
+}
+
 .literacy-color-credibility, .literacy-color-search, .literacy-color-composing{
   color:white;
 }
@@ -95,6 +100,11 @@ footer {
 .literacy-color-navigation{
   background-color: #FF4E1F;
   color: white;
+}
+
+.literacy-color-infrastructure{
+	background-color: #09b773;
+	color: white;
 }
 
 .literacy-color-remixing{
