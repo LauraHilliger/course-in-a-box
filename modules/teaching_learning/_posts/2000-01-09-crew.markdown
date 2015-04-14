@@ -1,0 +1,6 @@
+---
+title:  Finding Your Crew
+---
+
+
+{% include community_curriculum/teaching_learning/en/crew.md %}

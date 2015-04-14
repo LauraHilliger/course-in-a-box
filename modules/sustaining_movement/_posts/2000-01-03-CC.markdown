@@ -1,0 +1,6 @@
+---
+title: Your 1st Month as a Club Captain
+---
+
+
+{% include community_curriculum/sustaining_movement/en/1st_month_CC.md %}

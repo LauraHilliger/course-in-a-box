@@ -1,0 +1,5 @@
+---
+title: Your 1st Month as a Regional Coordinator
+---
+
+{% include community_curriculum/sustaining_movement/en/1st_month_RC.md %}

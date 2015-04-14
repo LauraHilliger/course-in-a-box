@@ -1,5 +1,5 @@
 ---
-title: Finding Funding
+title: Finding Funding and Support
 ---
 
 {% include community_curriculum/designing_engagement/en/funding.md %}

@@ -1,5 +1,0 @@
----
-title: Cultures of Participation
----
-
-{% include community_curriculum/sustaining_movement/en/culture.md %}
