@@ -1,5 +1,5 @@
 ---
-title: Your 1st Month as a RC
+title: Regional Coordinators
 ---
 
 {% include community_curriculum/sustaining_movement/en/1st_month_RC.md %}
